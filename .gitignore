@@ -5,7 +5,7 @@ HELP.md
 build/
 target/
 /node_modules
-lcov-report/
+/coverage/lcov-report
 
 ### STS ###
 .apt_generated
